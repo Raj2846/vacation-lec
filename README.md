@@ -1,2 +1,2 @@
 # vacation-lec
-vacation lec on git 
+vacation lec on git hub
